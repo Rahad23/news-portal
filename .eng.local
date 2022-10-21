@@ -1,6 +1,0 @@
-REACT_APP_API_KEY = "AIzaSyA2SGfKqNuUBADrxiBM7XeRAnoOi5AsvbI"
-REACT_APP_AUTH_DOMAIN = "authentication-practice-aa35b.firebaseapp.com"
-REACT_APP_PROJECT_ID = "authentication-practice-aa35b"
-REACT_APP_STORAGE_BUCKET = "authentication-practice-aa35b.appspot.com"
-REACT_APP_MESSAGING_SENDER_ID = "141377062689"
-REACT_APP_APP_ID = "1:141377062689:web:b655a40ad880706398e060"

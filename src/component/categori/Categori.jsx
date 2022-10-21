@@ -7,6 +7,7 @@ const Category = () => {
 
     return (
         <div className='mt-6'>
+            
             {/* <h1>Category page {category.length}</h1> */}
             {
                 category.map(news=> <CategoryCard key={news.id} news={news}></CategoryCard>)
